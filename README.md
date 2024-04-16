@@ -1,2 +1,2 @@
 # MYFIRSTREPOSITORY
-TES 
+REPOSITORY pertama saya
